@@ -14,15 +14,26 @@ The default iOS alarm tones suck. These are better.
 - macOS Monterey 12.6 (21G115)
 
 
-## How to Import
+## How to Import Alarms Into Your iPhone
 
-1. `git clone` this repo onto your MacBook.
+1. `git clone` this repo onto your MacBook.  
+
 1. Plug your iPhone into your MacBook, using a Lighting-to-USB-C cable.
+
 1. Open Finder on your MacBook, and navigate to the plugged in iPhone under "Locations".
+
 1. Select "Trust" on both your iPhone and MacBook, when prompted. 
+
 1. On the General tab, check the box for "Manually manage music, etc."
+
 1. Select all of the `.m4r` files in `assets/ringtones`, and drag and drop them anywhere on Finder's "sync iPhone" window. A small loading bar should appear and complete almost immediately.
+
 1. On your iPhone, go to Clock > Alarms > Sound, and you should now see the new alarm tones at the top of the list.
+
+
+## Useful Links
+
+- https://www.howtogeek.com/469085/how-to-add-custom-ringtones-to-an-iphone-from-macos-catalina/
 
 ---
 
